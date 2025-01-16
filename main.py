@@ -1,1 +1,1 @@
-print "nyan"
+print ("nyan")
